@@ -1,13 +1,13 @@
 {
-    "name": "gupongoffc/baileys",
+    "name": "KingGupong/baileys",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By OTAX",
+    "description": "WhatsApp Modified By Gupong",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/gupongoffc/baileys",
+    "homepage": "https://github.com/KingGupong/baileys",
     "repository": {
-        "url": "https://github.com/gupongoffc/baileys"
+        "url": "https://github.com/KingGupong/baileys"
     },
     "license": "MIT",
     "author": "Orang Biasa",
@@ -45,7 +45,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:@gupongoffc/libsignal-node@latest",
+        "libsignal": "github:KingGupong/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://gupongoffc/baileys/issues"
+      "url": "https://KingGupong/baileys/issues"
     }
 }
